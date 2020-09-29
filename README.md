@@ -6,6 +6,4 @@ A python script that checks wallets address their balance and produce an output 
 ```
 'Email', 'BTC address', 'Link of submission',	'Landed At', and 'Submitted At'
 ```
-in order.
- 
 2. Run the script
